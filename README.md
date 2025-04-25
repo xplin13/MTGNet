@@ -111,7 +111,7 @@ python train_MTGNet.py
 <br>
 
 <p align="center">
-  <img src="Figures/AFDM" width="60%">
+  <img src="Figures/AFDM.jpg" width="60%">
 </p>
 
 </details>
