@@ -74,7 +74,7 @@ python train_MTGNet.py
 <br>
 
 <p align="center">
-  <img src="Figures/EV.jpg" width="80%">
+  <img src="Figures/EV.jpg" width="60%">
 </p>
 
 </details>
@@ -87,7 +87,7 @@ python train_MTGNet.py
 <br>
 
 <p align="center">
-  <img src="Figures/HS.jpg" width="80%">
+  <img src="Figures/HS.jpg" width="60%">
 </p>
 
 </details>
@@ -100,7 +100,7 @@ python train_MTGNet.py
 <br>
 
 <p align="center">
-  <img src="Figures/MS.jpg" width="80%">
+  <img src="Figures/MS.jpg" width="60%">
 </p>
 
 </details>
@@ -112,7 +112,7 @@ python train_MTGNet.py
 <br>
 
 <img src="Figures/AFDM.jpg" width="60%">  
-<img src="Figures/heat.jpg" width="60%">
+<img src="Figures/heat.jpg" width="50%">
 
 </details>
 ---
