@@ -104,7 +104,6 @@ python train_MTGNet.py
 </p>
 
 </details>
----
 
 <details>
   <summary>🔹 Ablation: AFDM</summary>
@@ -112,12 +111,11 @@ python train_MTGNet.py
 <br>
 
 <p align="center">
-  <img src="Figures/Ablation0.jpg" width="60%">
+  <img src="Figures/AFDM" width="60%">
 </p>
 
 </details>
 
----
 
 <details>
   <summary>🔹 Ablation: Heatmap Visualization</summary>
@@ -129,7 +127,7 @@ python train_MTGNet.py
 </p>
 
 </details>
----
+
 
 ## 📜 Citation
 
