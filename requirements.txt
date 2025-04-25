@@ -1,0 +1,6 @@
+h5py==3.8.0
+lpips==0.1.4
+numpy==1.21.6
+opencv_python==4.10.0.84
+sewar==0.4.6
+torch==1.12.0+cu113
