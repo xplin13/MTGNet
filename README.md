@@ -73,9 +73,9 @@ python train_MTGNet.py
 
 <br>
 
-![Main Results EV-REDS](Figures/EV.jpg)  
-![Main Results HS-ERGB](Figures/HS.jpg)  
-![Main Results MS-RBD](Figures/MS.jpg)
+<img src="Figures/EV.jpg" width="80%">  
+<img src="Figures/HS.jpg" width="80%">  
+<img src="Figures/MS.jpg" width="80%">
 
 </details>
 
@@ -86,8 +86,8 @@ python train_MTGNet.py
 
 <br>
 
-![Ablation Study 1](Figures/AFDM.jpg)  
-![Ablation Study 2](Figures/heat.jpg)
+<img src="Figures/AFDM" width="80%">  
+<img src="Figures/heat.jpg" width="80%">
 
 </details>
 ---
