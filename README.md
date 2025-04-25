@@ -36,7 +36,7 @@ datasets/
     └── MS-RBD/
 ```
 
-> Each dataset includes blurry RGB frames, ground truth sharp frames, and event data frames.
+> Each dataset includes blurry RGB frames, ground truth sharp frames, event voxel and point cloud-based event.
 
 ---
 
