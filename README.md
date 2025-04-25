@@ -69,16 +69,41 @@ python train_MTGNet.py
 ## 📈 Visualization
 
 <details>
-  <summary>🔹 Main Results on EV-REDS, HS-ERGB, and MS-RBD</summary>
+  <summary>🔹 EV-REDS Results</summary>
 
 <br>
 
-<img src="Figures/EV.jpg" width="60%">  
-<img src="Figures/HS.jpg" width="60%">  
-<img src="Figures/MS.jpg" width="60%">
+<p align="center">
+  <img src="Figures/EV.jpg" width="80%">
+</p>
 
 </details>
 
+---
+
+<details>
+  <summary>🔹 HS-ERGB Results</summary>
+
+<br>
+
+<p align="center">
+  <img src="Figures/HS.jpg" width="80%">
+</p>
+
+</details>
+
+---
+
+<details>
+  <summary>🔹 MS-RBD Results</summary>
+
+<br>
+
+<p align="center">
+  <img src="Figures/MS.jpg" width="80%">
+</p>
+
+</details>
 ---
 
 <details>
