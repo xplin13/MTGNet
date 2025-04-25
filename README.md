@@ -23,9 +23,9 @@ pip install -r requirements.txt
 
 ## 📂 Datasets
 
-We evaluate our method on the following datasets:
+We evaluate our method on the following datasets and we will provide the packed data:
 
-- **Ev-REDS** [Download Link](your_ev-reds_link)
+- **Ev-REDS** [Download Link](https://pan.baidu.com/s/1B5XCB18Pv3KcwLmPhcl9_g?pwd=13WW)
 
 Organize the datasets as:
 
@@ -44,7 +44,7 @@ datasets/
 
 Download the pre-trained models here:
 
-- **Checkpoint for EV-REDS** [Download](your_evreds_checkpoint_link)
+- **Checkpoint for EV-REDS** [Download](https://pan.baidu.com/s/1-w8Ulj_h9MLYSrG5NM-fsQ?pwd=13WW)
 
 Place the downloaded `.pth` files into the `checkpoints/` directory:
 
@@ -107,12 +107,26 @@ python train_MTGNet.py
 ---
 
 <details>
-  <summary>🔹 Ablation Study Results</summary>
+  <summary>🔹 Ablation: AFDM</summary>
 
 <br>
 
-<img src="Figures/AFDM.jpg" width="60%">  
-<img src="Figures/heat.jpg" width="50%">
+<p align="center">
+  <img src="Figures/Ablation0.jpg" width="60%">
+</p>
+
+</details>
+
+---
+
+<details>
+  <summary>🔹 Ablation: Heatmap Visualization</summary>
+
+<br>
+
+<p align="center">
+  <img src="Figures/heat.jpg" width="60%">
+</p>
 
 </details>
 ---
