@@ -68,19 +68,28 @@ python train_MTGNet.py
 
 ## 📈 Visualization
 
-### 🔹 Main Results on EV-REDS, HS-ERGB, and MS-RBD
+<details>
+  <summary>🔹 Main Results on EV-REDS, HS-ERGB, and MS-RBD</summary>
 
-![Main Results EV-REDS](Figures/EV.jpg)
-![Main Results HS-ERGB](Figures/HS.jpg)
+<br>
+
+![Main Results EV-REDS](Figures/EV.jpg)  
+![Main Results HS-ERGB](Figures/HS.jpg)  
 ![Main Results MS-RBD](Figures/MS.jpg)
+
+</details>
 
 ---
 
-### 🔹 Ablation Study Results
+<details>
+  <summary>🔹 Ablation Study Results</summary>
 
-![Ablation Study 1](Figures/AFDM.jpg)
+<br>
+
+![Ablation Study 1](Figures/AFDM.jpg)  
 ![Ablation Study 2](Figures/heat.jpg)
 
+</details>
 ---
 
 ## 📜 Citation
