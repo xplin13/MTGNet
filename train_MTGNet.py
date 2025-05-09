@@ -138,9 +138,8 @@ def main(args):
     '''MODEL LOADING'''
 
     if 1:
-        from models.MTGNet import MIMOUNetPlus_MS_point_eframe_best_dialate_mlp_right
-        classifier = MIMOUNetPlus_MS_point_eframe_best_dialate_mlp_right(num_res=20,
-                                                                      pretrained_path=args.pretrain_model_path)
+        from models.MTGNet import MTGNet
+        classifier = MTGNet(num_res=20, pretrained_path=args.pretrain_model_path)
 
         if args.loss == "MS_ssim_mae_fft":
             criterion = L1_mae_fft_HybridLoss(alpha=0.5)
